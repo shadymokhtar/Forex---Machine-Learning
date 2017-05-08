@@ -5,4 +5,4 @@ Gathered 15 years of daily data - open, close, high and low prices of USD/CHF, d
 
 Accuracy on test/unseen data is 74%
 
-The model was tested on USD/EUR pair, Accuracy is 75%
+The model was also tested on USD/EUR pair, Accuracy is 75%
