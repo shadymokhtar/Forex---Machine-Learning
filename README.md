@@ -1,4 +1,4 @@
-#Machine-Learning / Forex Market
+# Machine-Learning / Forex Market
 
 Exploring how can machine learning models can be beneficial in tradung strategies. 
 
